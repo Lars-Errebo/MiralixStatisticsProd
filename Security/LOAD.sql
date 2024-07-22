@@ -1,0 +1,4 @@
+CREATE SCHEMA [LOAD]
+    AUTHORIZATION [dbo];
+GO
+

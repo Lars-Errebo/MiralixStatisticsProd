@@ -1,0 +1,4 @@
+CREATE SCHEMA [VIEW]
+    AUTHORIZATION [dbo];
+GO
+

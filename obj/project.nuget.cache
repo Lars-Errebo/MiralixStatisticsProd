@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxmWDUwd7mlOXHoOk/LW+PV6VJFw2EeC2nWPBJFWpl9HL4FdR/1WiYbPf/O+ecylwmfIUReffpENqnK9MsvwfA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lae\\OneDrive - Miralix A S\\SQL\\MiralixStatisticsProd\\MiralixStatisticsProd\\MiralixStatisticsProd.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lae\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\lae\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

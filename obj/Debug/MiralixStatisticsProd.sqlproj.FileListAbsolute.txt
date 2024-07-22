@@ -1,0 +1,8 @@
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\bin\Debug\MiralixStatisticsProd.dacpac
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\MiralixStatisticsProd.sqlproj.AssemblyReference.cache
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\Model.xml
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\refactor.xml
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\postdeploy.sql
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\predeploy.sql
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\MiralixStatisticsProd.dll
+c:\Users\lae\OneDrive - Miralix A S\SQL\MiralixStatisticsProd\MiralixStatisticsProd\obj\Debug\MiralixStatisticsProd.pdb
